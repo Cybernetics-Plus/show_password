@@ -7,13 +7,13 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics Plus View Password',
+    'name': 'View Password at Login and Signup Page',
     'version': '15.0.1.0.1',
     'summary': """ 
-            View Password at Login and Signup Page
+            Cybernetics Plus View Password at Login and Signup Page
             .""",
     'description': """ 
-            View Password at Login and Signup Page
+            Cybernetics Plus View Password at Login and Signup Page
             .""",
     'author': 'Cybernetics Plus Co., Ltd.',
     'website': 'https://www.cybernetics.plus',
